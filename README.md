@@ -3,7 +3,7 @@
   
 <h1> :grey_question: About </h1>
   <p> :label: My name is Eren </p>
-  <p> 🤓 I am back-end developer </p>
+  <p> 🤓 I'm a Full-Stack developer </p>
   <p> :flag_white: I live in Turkey/Trabzon </p>
   <p> :desktop: Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
 
@@ -16,6 +16,3 @@
 
 <h1> :gem: My achievements </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=itzcarlos01&theme=onedark" />
-
-<h1>ss</h1>
-<img src="https://lanyard.kyrie25.me/api/1148024228306759744?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Five+So+Be%C5%9F+So+Me/>
