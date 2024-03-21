@@ -18,4 +18,4 @@
 <img src="https://github-profile-trophy.vercel.app/?username=itzcarlos01&theme=onedark" />
 
 <h1>ss</h1>
-<img src="[[![Discord Presence](https://lanyard.cnrad.dev/api/1148024228306759744)](https://discord.com/users/1148024228306759744)](https://lanyard.kyrie25.me/api/1148024228306759744?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Five+So+Beş+So+Me)https://lanyard.kyrie25.me/api/1148024228306759744?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Five+So+Beş+So+Me" />
+<img src="https://lanyard.kyrie25.me/api/1148024228306759744?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Five+So+Be%C5%9F+So+Me/>
