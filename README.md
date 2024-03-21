@@ -18,4 +18,4 @@
 <img src="https://github-profile-trophy.vercel.app/?username=itzcarlos01&theme=onedark" />
 
 <h1>ss</h1>
-<img src="[![Discord Presence](https://lanyard.cnrad.dev/api/990259194626207754)](https://discord.com/users/990259194626207754)" />
+<img src="https://lanyard.cnrad.dev/api/990259194626207754 https://discord.com/users/990259194626207754" />
