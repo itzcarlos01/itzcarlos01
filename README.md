@@ -32,5 +32,3 @@
 <p align="left">
 <a href="https://discord.gg/Y9Y5wYjGym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Y9Y5wYjGym" height="30" width="40" /></a>
 </p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzcarlos01&show_icons=true&locale=en&layout=compact&theme=dark" alt="itzcarlos01" /></p>
