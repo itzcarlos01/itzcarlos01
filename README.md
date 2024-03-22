@@ -17,13 +17,12 @@
 ###
 ![](https://github-contributor-stats.vercel.app/api?username=itzcarlos01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzcarlos01&show_icons=true&locale=en&layout=compact&theme=dark" alt="itzcarlos01" /></p>
 
 <h1> 💎 My achievements </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=itzcarlos01&theme=onedark" />
 
 <h1> Profili Ziyaret Eden Kişi Sayısı:</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzcarlos01&label=Profile%20views&color=0e75b6&style=flat" alt="itzcarlos01" /> </p>
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=itzcarlos01&icon=0&color=1)](https://visitcount.itsvg.in" /> </p>
 
 <h3 align="left">Carlos Bot</h3>
 <p align="left">
@@ -31,8 +30,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzcarlos01&show_icons=true&locale=en&layout=compact&theme=dark" alt="itzcarlos01" /></p>
-
----
-[![](https://visitcount.itsvg.in/api?id=itzcarlos01&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
