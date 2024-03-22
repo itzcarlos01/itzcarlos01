@@ -22,7 +22,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=itzcarlos01&theme=onedark" />
 
 <h1> Profili Ziyaret Eden Kişi Sayısı:</h1>
-<p align="left"> <img src="https://visitcount.itsvg.in/api?id=itzcarlos01&icon=0&color=1)](https://visitcount.itsvg.in" /> </p>
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=itzcarlos01&icon=0&color=0)](https://visitcount.itsvg.in" /> </p>
 
 <h3 align="left">Carlos Bot</h3>
 <p align="left">
