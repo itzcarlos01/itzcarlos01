@@ -3,6 +3,7 @@
   
 <h1> :grey_question: About </h1>
   <p> :label: My name is Eren </p>
+  <p> :label: I'm 81 Years Old</p>
   <p> 👨‍💻 I'm a Full-Stack developer </p>
   <p> 🏳️ I live in Turkey/Trabzon </p>
   <p> 💻 Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
