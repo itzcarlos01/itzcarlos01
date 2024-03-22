@@ -17,6 +17,8 @@
 ###
 ![](https://github-contributor-stats.vercel.app/api?username=itzcarlos01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzcarlos01&show_icons=true&locale=en&layout=compact&theme=dark" alt="itzcarlos01" /></p>
+
 <h1> 💎 My achievements </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=itzcarlos01&theme=onedark" />
 
@@ -29,9 +31,6 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzcarlos01&show_icons=true&locale=en&layout=compact&theme=dark" alt="itzcarlos01" /></p>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=itzcarlos01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=itzcarlos01&icon=0&color=1)](https://visitcount.itsvg.in)
