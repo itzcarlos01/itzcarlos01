@@ -17,6 +17,9 @@
 ###
 ![](https://github-contributor-stats.vercel.app/api?username=itzcarlos01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+###
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzcarlos01&show_icons=true&locale=en&layout=compact&theme=dark" alt="itzcarlos01" /></p>
+
 
 <h1> 💎 My achievements </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=itzcarlos01&theme=onedark" />
@@ -30,4 +33,4 @@
 <a href="https://discord.gg/Y9Y5wYjGym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Y9Y5wYjGym" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzcarlos01&show_icons=true&locale=en&layout=compact&theme=dark" alt="itzcarlos01" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzcarlos01&show_icons=true&locale=en&layout=compact&theme=dark" alt="itzcarlos01" /></p>
