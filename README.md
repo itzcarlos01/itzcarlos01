@@ -12,7 +12,9 @@
 <img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" />
 
 <h1> 📈: My stats </h1>
-<img src="https://github-readme-stats.vercel.app/api?username=itzcarlos01&show_icons=true&theme=dark ![](https://github-contributor-stats.vercel.app/api?username=itzcarlos01&limit=5&theme=dark&combine_all_yearly_contributions=true)" />
+<img src="https://github-readme-stats.vercel.app/api?username=itzcarlos01&show_icons=true&theme=dark" />
+### ss
+![](https://github-contributor-stats.vercel.app/api?username=itzcarlos01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <h1> 💎 My achievements </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=itzcarlos01&theme=onedark" />
