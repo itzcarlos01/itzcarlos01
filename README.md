@@ -24,9 +24,6 @@
 <h1> 💎 My achievements </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=itzcarlos01&theme=onedark" />
 
-### Carlos Bot
-<a href="https://discord.gg/Y9Y5wYjGym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Y9Y5wYjGym" height="30" width="40" /></a>
-</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=itzcarlos01&icon=0&color=0)](https://visitcount.itsvg.in)
